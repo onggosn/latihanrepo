@@ -6,5 +6,6 @@ public class MainClass {
 		System.out.println("Halo ini kolaborator Firza");
 		System.out.println("Halo Onggo");
 
+		System.out.println("Hai");
 	}
 }
